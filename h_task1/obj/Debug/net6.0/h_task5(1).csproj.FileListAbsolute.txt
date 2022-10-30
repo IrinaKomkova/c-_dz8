@@ -1,0 +1,30 @@
+C:\Users\maxko\SC\DZ8\h_task5(1)\bin\Debug\net6.0\h_task5(1).exe
+C:\Users\maxko\SC\DZ8\h_task5(1)\bin\Debug\net6.0\h_task5(1).deps.json
+C:\Users\maxko\SC\DZ8\h_task5(1)\bin\Debug\net6.0\h_task5(1).runtimeconfig.json
+C:\Users\maxko\SC\DZ8\h_task5(1)\bin\Debug\net6.0\h_task5(1).dll
+C:\Users\maxko\SC\DZ8\h_task5(1)\bin\Debug\net6.0\h_task5(1).pdb
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).csproj.AssemblyReference.cache
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).AssemblyInfoInputs.cache
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).AssemblyInfo.cs
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).csproj.CoreCompileInputs.cache
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).dll
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\refint\h_task5(1).dll
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).pdb
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\h_task5(1).genruntimeconfig.cache
+C:\Users\maxko\SC\DZ8\h_task5(1)\obj\Debug\net6.0\ref\h_task5(1).dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\bin\Debug\net6.0\h_task5(1).exe
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\bin\Debug\net6.0\h_task5(1).deps.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\bin\Debug\net6.0\h_task5(1).runtimeconfig.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\bin\Debug\net6.0\h_task5(1).dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\bin\Debug\net6.0\h_task5(1).pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).csproj.AssemblyReference.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).AssemblyInfoInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).AssemblyInfo.cs
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).csproj.CoreCompileInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\refint\h_task5(1).dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\h_task5(1).genruntimeconfig.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ8\h_task1\obj\Debug\net6.0\ref\h_task5(1).dll
